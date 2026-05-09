@@ -126,120 +126,120 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-0F172A?style=for-the-badge)
 
 ---
-# 🧠 Featured Projects | 🧠 Projetos em destaque
+# 🧠 Featured Projects | Projetos em Destaque
 
 <table>
+
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🚀 AtendeAI
 
-**AI Customer Service Platform**
+### 🇺🇸 AI Customer Service Platform
 
 AI-powered customer service platform with intelligent automation, conversational workflows and multi-channel integrations.
 
-_Plataforma inteligente de atendimento automatizado com IA generativa, automação de fluxos e integração multicanal._
-🇧🇷 
-Plataforma de atendimento ao cliente com IA
-
-Plataforma de atendimento ao cliente com inteligência artificial, automação inteligente, fluxos de trabalho conversacionais e integrações multicanal.
+### 🇧🇷 Plataforma de Atendimento com IA
 
 Plataforma inteligente de atendimento automatizado com IA generativa, automação de fluxos e integração multicanal.
 
+**Stack:**  
+`AI` `Automation` `Chatbots` `Workflows` `SaaS`
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🧠 AgentBench
 
-**Generative AI Research Lab**
+### 🇺🇸 Generative AI Research Lab
 
 Experimental environment focused on prompt engineering, autonomous agents, RAG pipelines and AI benchmarking.
 
-_Laboratório experimental focado em engenharia de prompts, agentes autônomos e arquiteturas RAG._
-🇧🇷 
-Laboratório de Pesquisa em IA Generativa
+### 🇧🇷 Laboratório de Pesquisa em IA Generativa
 
-Ambiente experimental focado em engenharia ágil, agentes autônomos, pipelines RAG e avaliação comparativa de IA.
+Ambiente experimental focado em engenharia de prompts, agentes autônomos, pipelines RAG e benchmarking de IA.
 
-Laboratório experimental focado em engenharia de prompts, agentes independentes e arquiteturas RAG.
+**Stack:**  
+`GenAI` `RAG` `Agents` `Embeddings` `Benchmarks`
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🏗️ HexaStack
 
-**Enterprise Architecture Boilerplate**
+### 🇺🇸 Enterprise Architecture Boilerplate
 
 Production-ready backend architecture template using Clean Architecture, observability and microservices patterns.
 
-_Template enterprise para APIs escaláveis utilizando Clean Architecture, microsserviços e observabilidade._
-🇧🇷 
-Modelo de Arquitetura Empresarial
+### 🇧🇷 Boilerplate de Arquitetura Enterprise
 
-Modelo de arquitetura de backend pronto para produção, utilizando os padrões de Arquitetura Limpa, observabilidade e microsserviços.
+Template backend pronto para produção utilizando Clean Architecture, observabilidade e padrões de microsserviços.
 
-Template corporativo para APIs escaláveis ​​utilizando Clean Architecture, microsserviços e observabilidade.
+**Stack:**  
+`Architecture` `Microservices` `CI/CD` `Docker` `Observability`
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ⚙️ FlowMind
 
-**AI Workflow Automation Platform**
+### 🇺🇸 AI Workflow Automation Platform
 
 Intelligent workflow automation system for enterprise operations using AI agents and event-driven processing.
 
-_Plataforma de automação inteligente para processos empresariais utilizando IA e workflows automatizados._
-🇧🇷 
-Plataforma de Automação de Fluxo de Trabalho com IA
+### 🇧🇷 Plataforma de Automação Inteligente
 
-Sistema inteligente de automação de fluxo de trabalho para operações empresariais usando agentes de IA e processamento orientado a eventos.
+Sistema de automação de workflows empresariais utilizando agentes de IA e processamento orientado a eventos.
 
-Plataforma de automação inteligente para processos empresariais utilizando IA e fluxos de trabalho automatizados.
+**Stack:**  
+`Automation` `AI Agents` `Events` `Workflows` `Enterprise`
+
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎯 AffinityAI
 
-**AI Recommendation Engine**
+### 🇺🇸 AI Recommendation Engine
 
 Machine learning recommendation engine powered by behavioral analytics and scalable inference APIs.
 
-_Motor de recomendação inteligente baseado em machine learning e análise comportamental._
-🇧🇷 
-Mecanismo de recomendação de IA
+### 🇧🇷 Motor de Recomendação com IA
 
-Mecanismo de recomendação baseado em aprendizado de máquina, impulsionado por análises comportamentais e APIs de inferência escaláveis.
+Sistema inteligente de recomendação baseado em machine learning e análise comportamental.
 
-Motor de recomendação inteligente baseado em machine learning e análise comportamental.
+**Stack:**  
+`Machine Learning` `Recommendations` `Analytics` `Inference APIs`
+
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📡 VectorOps
 
-**Observability & Distributed Monitoring Platform**
+### 🇺🇸 Observability & Distributed Monitoring Platform
 
 Real-time platform for logs, metrics, tracing and infrastructure monitoring.
 
-_Plataforma distribuída de observabilidade para logs, métricas, tracing e monitoramento em tempo real._
-🇧🇷 
-Plataforma de Observabilidade e Monitoramento Distribuído
+### 🇧🇷 Plataforma de Observabilidade Distribuída
 
-Plataforma em tempo real para registros, métricas, rastreamento e monitoramento de infraestrutura.
+Plataforma em tempo real para logs, métricas, tracing e monitoramento de infraestrutura.
 
-Plataforma distribuída de observabilidade para registros, métricas, rastreamento e monitoramento em tempo real.
+**Stack:**  
+`Observability` `Tracing` `Metrics` `Monitoring` `Logs`
+
 </td>
 
 </tr>
