@@ -248,7 +248,7 @@ Plataforma em tempo real para logs, métricas, tracing e monitoramento de infrae
 
 ---
 
-# 🏛️ Architecture Mindset | 🏛️ Mentalidade de Arquitetura
+# 🏛️ Architecture Mindset | Mentalidade de Arquitetura
 
 
 ```mermaid
@@ -267,7 +267,7 @@ graph TD
 
 ---
 
-# 🎯 Current Focus | 🎯 Foco atual
+# 🎯 Current Focus | Foco atual
 
 - AI Engineering
 - Generative AI
@@ -284,7 +284,7 @@ graph TD
 
 ---
 
-# 🏆 GitHub Trophies | 🏆 Troféus do GitHub
+# 🏆 GitHub Trophies | Troféus do GitHub
 
 <div align="center">
 
@@ -294,7 +294,7 @@ graph TD
 
 ---
 
-# 📊 GitHub Metrics | 📊 Métricas do GitHub
+# 📊 GitHub Metrics | Métricas do GitHub
 
 <div align="center">
 
@@ -312,7 +312,7 @@ graph TD
 
 ---
 
-# 🐍 Contribution Activity | 🐍 Atividade de Contribuição
+# 🐍 Contribution Activity | Atividade de Contribuição
 
 <div align="center">
 
@@ -322,14 +322,14 @@ graph TD
 
 ---
 
-# 💡 Engineering Philosophy | 💡 Filosofia da Engenharia
+# 💡 Engineering Philosophy | Filosofia da Engenharia
 
 > Clean architecture, scalable systems and AI-driven solutions built with long-term maintainability in mind.
 > 🇧🇷 Arquitetura limpa, sistemas escaláveis ​​e soluções orientadas por IA, construídas com foco na manutenção a longo prazo.
 
 ---
 
-# 🧩 Areas of Expertise | 🧩 Áreas de especialização
+# 🧩 Areas of Expertise | Áreas de especialização
 
 ```txt
 Software Engineering      Software Architecture      Backend Engineering
@@ -348,11 +348,11 @@ IA Generativa Soluções Cloud Engenharia de Produtos
 ```
 ---
 
-# 🌐 Connect With Me | 🌐 Conecte-se comigo
+# 🌐 Connect With Me | Conecte-se comigo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://linkedin.com/thayribeirom)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA)](https://www.linkedin.com/in/thayribeirom/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/thayribeirom)
 
