@@ -122,104 +122,93 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-0F172A?style=for-the-badge)
 
 ---
-
 # 🧠 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>🚀 AtendeAI</h3>
-      <p><strong>AI Customer Service Platform</strong></p>
-      <p>
-        AI-powered customer service platform with intelligent automation,
-        conversational workflows and multi-channel integrations.
-      </p>
-      <p>
-        <em>
-          Plataforma inteligente de atendimento automatizado com IA generativa,
-          automação de fluxos e integração multicanal.
-        </em>
-      </p>
-    </td>
+<tr>
 
-    <td width="50%">
-      <h3>🧠 AgentBench</h3>
-      <p><strong>Generative AI Research Lab</strong></p>
-      <p>
-        Experimental environment focused on prompt engineering,
-        autonomous agents, RAG pipelines and AI benchmarking.
-      </p>
-      <p>
-        <em>
-          Laboratório experimental focado em engenharia de prompts,
-          agentes autônomos e arquiteturas RAG.
-        </em>
-      </p>
-    </td>
-  </tr>
+<td width="50%">
 
-  <tr>
-    <td width="50%">
-      <h3>🏗️ HexaStack</h3>
-      <p><strong>Enterprise Architecture Boilerplate</strong></p>
-      <p>
-        Production-ready backend architecture template using
-        Clean Architecture, observability and microservices patterns.
-      </p>
-      <p>
-        <em>
-          Template enterprise para APIs escaláveis utilizando
-          Clean Architecture, microsserviços e observabilidade.
-        </em>
-      </p>
-    </td>
+## 🚀 AtendeAI
 
-    <td width="50%">
-      <h3>⚙️ FlowMind</h3>
-      <p><strong>AI Workflow Automation Platform</strong></p>
-      <p>
-        Intelligent workflow automation system for enterprise operations
-        using AI agents and event-driven processing.
-      </p>
-      <p>
-        <em>
-          Plataforma de automação inteligente para processos empresariais
-          utilizando IA e workflows automatizados.
-        </em>
-      </p>
-    </td>
-  </tr>
+**AI Customer Service Platform**
 
-  <tr>
-    <td width="50%">
-      <h3>🎯 AffinityAI</h3>
-      <p><strong>AI Recommendation Engine</strong></p>
-      <p>
-        Machine learning recommendation engine powered by behavioral analytics
-        and scalable inference APIs.
-      </p>
-      <p>
-        <em>
-          Motor de recomendação inteligente baseado em machine learning
-          e análise comportamental.
-        </em>
-      </p>
-    </td>
+AI-powered customer service platform with intelligent automation, conversational workflows and multi-channel integrations.
 
-    <td width="50%">
-      <h3>📡 VectorOps</h3>
-      <p><strong>Observability & Distributed Monitoring Platform</strong></p>
-      <p>
-        Real-time platform for logs, metrics, tracing and infrastructure monitoring.
-      </p>
-      <p>
-        <em>
-          Plataforma distribuída de observabilidade para logs, métricas,
-          tracing e monitoramento em tempo real.
-        </em>
-      </p>
-    </td>
-  </tr>
+_Plataforma inteligente de atendimento automatizado com IA generativa, automação de fluxos e integração multicanal._
+
+</td>
+
+<td width="50%">
+
+## 🧠 AgentBench
+
+**Generative AI Research Lab**
+
+Experimental environment focused on prompt engineering, autonomous agents, RAG pipelines and AI benchmarking.
+
+_Laboratório experimental focado em engenharia de prompts, agentes autônomos e arquiteturas RAG._
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🏗️ HexaStack
+
+**Enterprise Architecture Boilerplate**
+
+Production-ready backend architecture template using Clean Architecture, observability and microservices patterns.
+
+_Template enterprise para APIs escaláveis utilizando Clean Architecture, microsserviços e observabilidade._
+
+</td>
+
+<td width="50%">
+
+## ⚙️ FlowMind
+
+**AI Workflow Automation Platform**
+
+Intelligent workflow automation system for enterprise operations using AI agents and event-driven processing.
+
+_Plataforma de automação inteligente para processos empresariais utilizando IA e workflows automatizados._
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎯 AffinityAI
+
+**AI Recommendation Engine**
+
+Machine learning recommendation engine powered by behavioral analytics and scalable inference APIs.
+
+_Motor de recomendação inteligente baseado em machine learning e análise comportamental._
+
+</td>
+
+<td width="50%">
+
+## 📡 VectorOps
+
+**Observability & Distributed Monitoring Platform**
+
+Real-time platform for logs, metrics, tracing and infrastructure monitoring.
+
+_Plataforma distribuída de observabilidade para logs, métricas, tracing e monitoramento em tempo real._
+
+</td>
+
+</tr>
+
 </table>
 
 ---
