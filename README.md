@@ -1,12 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:1E3A8A,100:7C3AED&text=Thayna%20Ribeiro%20Martins&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Software%20Architecture&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E3A8A,100:7C3AED&text=Thayna%20Ribeiro%20Martins&fontColor=FFFFFF&fontSize=45&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20AI%20Engineer&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+scalable+systems;Designing+AI-powered+products;Creating+intelligent+automations;Engineering+enterprise-grade+solutions" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Building+scalable+systems;Construindo+sistemas+escalaveis;Designing+AI-powered+products;Projetando+produtos+com+IA;Creating+intelligent+automations;Criando+automacoes+inteligentes;Engineering+enterprise-grade+solutions;Desenvolvendo+solucoes+enterprise" />
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212750987-79a5b0b2-7b9d-4c65-bb1f-4b4be5e3e5d6.gif" width="100%">
 
 # 👩‍💻 About Me
 
@@ -24,16 +28,16 @@ Atuação focada em arquiteturas escaláveis, backend engineering, automações 
 
 ---
 
-# 🚀 Core Positioning
+# 🚀 Core Positioning | 🚀 Posicionamento Central
 
 ```txt
 AI Engineering • Software Architecture • Backend Engineering • Enterprise Systems
 ```
 
 ---
-# ⚡ Tech Stack
+# ⚡ Tech Stack | ⚡ Conjunto de tecnologias
 
-## Backend Engineering
+## Backend Engineering | Engenharia de Backend
 
 ![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-0F172A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
@@ -50,7 +54,7 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 
 ---
 
-## Architecture & Engineering
+## Architecture & Engineering | Arquitetura e Engenharia
 
 ![REST API](https://img.shields.io/badge/RESTful_APIs-0F172A?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge)
@@ -63,7 +67,7 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 
 ---
 
-## AI & Data
+## AI & Data | IA e Dados
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF)
 ![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge)
@@ -76,7 +80,7 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 
 ---
 
-## Databases
+## Databases | Bancos de dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
@@ -99,7 +103,7 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 
 ---
 
-## Infrastructure & DevOps
+## Infrastructure & DevOps | Infraestrutura e DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
@@ -111,7 +115,7 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 
 ---
 
-## Leadership & Delivery
+## Leadership & Delivery | Liderança e Entrega
 
 ![Tech Lead](https://img.shields.io/badge/Tech_Lead-0F172A?style=for-the-badge)
 ![Mentoring](https://img.shields.io/badge/Developer_Mentoring-0F172A?style=for-the-badge)
@@ -122,7 +126,7 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-0F172A?style=for-the-badge)
 
 ---
-# 🧠 Featured Projects
+# 🧠 Featured Projects | 🧠 Projetos em destaque
 
 <table>
 <tr>
@@ -136,6 +140,12 @@ AI Engineering • Software Architecture • Backend Engineering • Enterprise 
 AI-powered customer service platform with intelligent automation, conversational workflows and multi-channel integrations.
 
 _Plataforma inteligente de atendimento automatizado com IA generativa, automação de fluxos e integração multicanal._
+🇧🇷 
+Plataforma de atendimento ao cliente com IA
+
+Plataforma de atendimento ao cliente com inteligência artificial, automação inteligente, fluxos de trabalho conversacionais e integrações multicanal.
+
+Plataforma inteligente de atendimento automatizado com IA generativa, automação de fluxos e integração multicanal.
 
 </td>
 
@@ -148,7 +158,12 @@ _Plataforma inteligente de atendimento automatizado com IA generativa, automaç�
 Experimental environment focused on prompt engineering, autonomous agents, RAG pipelines and AI benchmarking.
 
 _Laboratório experimental focado em engenharia de prompts, agentes autônomos e arquiteturas RAG._
+🇧🇷 
+Laboratório de Pesquisa em IA Generativa
 
+Ambiente experimental focado em engenharia ágil, agentes autônomos, pipelines RAG e avaliação comparativa de IA.
+
+Laboratório experimental focado em engenharia de prompts, agentes independentes e arquiteturas RAG.
 </td>
 
 </tr>
@@ -164,7 +179,12 @@ _Laboratório experimental focado em engenharia de prompts, agentes autônomos e
 Production-ready backend architecture template using Clean Architecture, observability and microservices patterns.
 
 _Template enterprise para APIs escaláveis utilizando Clean Architecture, microsserviços e observabilidade._
+🇧🇷 
+Modelo de Arquitetura Empresarial
 
+Modelo de arquitetura de backend pronto para produção, utilizando os padrões de Arquitetura Limpa, observabilidade e microsserviços.
+
+Template corporativo para APIs escaláveis ​​utilizando Clean Architecture, microsserviços e observabilidade.
 </td>
 
 <td width="50%">
@@ -176,7 +196,12 @@ _Template enterprise para APIs escaláveis utilizando Clean Architecture, micros
 Intelligent workflow automation system for enterprise operations using AI agents and event-driven processing.
 
 _Plataforma de automação inteligente para processos empresariais utilizando IA e workflows automatizados._
+🇧🇷 
+Plataforma de Automação de Fluxo de Trabalho com IA
 
+Sistema inteligente de automação de fluxo de trabalho para operações empresariais usando agentes de IA e processamento orientado a eventos.
+
+Plataforma de automação inteligente para processos empresariais utilizando IA e fluxos de trabalho automatizados.
 </td>
 
 </tr>
@@ -192,7 +217,12 @@ _Plataforma de automação inteligente para processos empresariais utilizando IA
 Machine learning recommendation engine powered by behavioral analytics and scalable inference APIs.
 
 _Motor de recomendação inteligente baseado em machine learning e análise comportamental._
+🇧🇷 
+Mecanismo de recomendação de IA
 
+Mecanismo de recomendação baseado em aprendizado de máquina, impulsionado por análises comportamentais e APIs de inferência escaláveis.
+
+Motor de recomendação inteligente baseado em machine learning e análise comportamental.
 </td>
 
 <td width="50%">
@@ -204,7 +234,12 @@ _Motor de recomendação inteligente baseado em machine learning e análise comp
 Real-time platform for logs, metrics, tracing and infrastructure monitoring.
 
 _Plataforma distribuída de observabilidade para logs, métricas, tracing e monitoramento em tempo real._
+🇧🇷 
+Plataforma de Observabilidade e Monitoramento Distribuído
 
+Plataforma em tempo real para registros, métricas, rastreamento e monitoramento de infraestrutura.
+
+Plataforma distribuída de observabilidade para registros, métricas, rastreamento e monitoramento em tempo real.
 </td>
 
 </tr>
@@ -213,7 +248,8 @@ _Plataforma distribuída de observabilidade para logs, métricas, tracing e moni
 
 ---
 
-# 🏛️ Architecture Mindset
+# 🏛️ Architecture Mindset | 🏛️ Mentalidade de Arquitetura
+
 
 ```mermaid
 graph TD
@@ -231,7 +267,7 @@ graph TD
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Current Focus | 🎯 Foco atual
 
 - AI Engineering
 - Generative AI
@@ -248,7 +284,7 @@ graph TD
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies | 🏆 Troféus do GitHub
 
 <div align="center">
 
@@ -258,7 +294,7 @@ graph TD
 
 ---
 
-# 📊 GitHub Metrics
+# 📊 GitHub Metrics | 📊 Métricas do GitHub
 
 <div align="center">
 
@@ -276,7 +312,7 @@ graph TD
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Activity | 🐍 Atividade de Contribuição
 
 <div align="center">
 
@@ -286,13 +322,14 @@ graph TD
 
 ---
 
-# 💡 Engineering Philosophy
+# 💡 Engineering Philosophy | 💡 Filosofia da Engenharia
 
 > Clean architecture, scalable systems and AI-driven solutions built with long-term maintainability in mind.
+> 🇧🇷 Arquitetura limpa, sistemas escaláveis ​​e soluções orientadas por IA, construídas com foco na manutenção a longo prazo.
 
 ---
 
-# 🧩 Areas of Expertise
+# 🧩 Areas of Expertise | 🧩 Áreas de especialização
 
 ```txt
 Software Engineering      Software Architecture      Backend Engineering
@@ -301,10 +338,17 @@ API Design                Event-Driven Architecture  Automation Platforms
 Enterprise Systems        Observability              Machine Learning
 Generative AI             Cloud Solutions            Product Engineering
 ```
-
+```txt
+🇧🇷
+Engenharia de Software Arquitetura de Sistemas Engenharia Backend
+Engenharia de IA Engenharia de Dados Sistemas Distribuídos
+Design de APIs Arquitetura Orientada a Eventos
+Plataformas de Automação Observabilidade Machine Learning
+IA Generativa Soluções Cloud Engenharia de Produtos
+```
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect With Me | 🌐 Conecte-se comigo
 
 <div align="center">
 
